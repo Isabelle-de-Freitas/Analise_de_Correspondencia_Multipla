@@ -28,3 +28,5 @@ Para validação, será definido um nível de significância de 5%.
 - Análise de Correspondência Múltipla
 - Mapa perceptual
 - Conclusão
+
+**Obs.:** o Mapa Perceptual não é plotado no notebook, pois ele utiliza um pacote (plotly.io) que abre o gráfico no browser.
