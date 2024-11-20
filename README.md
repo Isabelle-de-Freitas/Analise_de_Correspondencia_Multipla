@@ -25,7 +25,7 @@ Para validação, será definido um nível de significância de 5%.
 * ```matplotlib```: para visualizações estáticas ou interativas
 * ```prince```: para análise de correspondência
 * ```plotly```: para gráficos interativos e dinâmicos
-* ```scipy```: para manipular funções e distribuições eststísticas
+* ```scipy```: para manipular funções e distribuições estatísticas
 
 ## Estrutura do projeto
 
