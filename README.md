@@ -18,6 +18,15 @@ em que I é a quantidade de categorias em linha e J, a quantidade de categorias 
 
 Para validação, será definido um nível de significância de 5%.
 
+## Dependências
+
+* ```pandas```: para leitura e manipulação dos dados
+* ```numpy```: para realizar operações em array
+* ```matplotlib```: para visualizações estáticas ou interativas
+* ```prince```: para análise de correspondência
+* ```plotly```: para gráficos interativos e dinâmicos
+* ```scipy```: para manipular funções e distribuições eststísticas
+
 ## Estrutura do projeto
 
 - Contexto
