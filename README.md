@@ -1,6 +1,6 @@
 # Análise de Correspondência Múltipla (MCA)
 
-Definição: a análise de correspondência múltipla possui o intuito de analisar a associação entre mais de duas variáveis categóricas. Somente as variáveis que apresentam associação estatisticamente significativa participam da MCA.
+**Definição:** a análise de correspondência múltipla possui o intuito de analisar a associação entre mais de duas variáveis categóricas. Somente as variáveis que apresentam associação estatisticamente significativa participam da MCA.
 
 O objetivo deste trabalho é realizar uma análise de correnpondência múltipla sobre dados de adaptação de estudantes ao ensino online, a fim de observar como as variáveis se associam e se essas associações são estatisticamente significativas.
 
